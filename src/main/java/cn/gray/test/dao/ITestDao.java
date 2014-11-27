@@ -1,11 +1,11 @@
-package net.netne.test.dao;
+package cn.gray.test.dao;
 
 import java.util.List;
 
-import net.netne.common.annotation.MyBatisRepository;
-import net.netne.common.pojo.City;
-
 import org.springframework.stereotype.Repository;
+
+import cn.gray.common.annotation.MyBatisRepository;
+import cn.gray.common.pojo.City;
 
 /**
  * Description: ITestDao.java

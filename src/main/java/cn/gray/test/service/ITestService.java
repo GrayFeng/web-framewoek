@@ -1,4 +1,4 @@
-package net.netne.test.service;
+package cn.gray.test.service;
 
 /**
  * Description: ITestService.java

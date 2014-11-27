@@ -1,4 +1,4 @@
-package net.netne.test.control;
+package cn.gray.test.control;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

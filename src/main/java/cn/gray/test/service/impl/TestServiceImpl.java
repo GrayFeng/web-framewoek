@@ -1,13 +1,13 @@
-package net.netne.test.service.impl;
+package cn.gray.test.service.impl;
 
 import java.util.List;
 
-import net.netne.common.pojo.City;
-import net.netne.test.dao.ITestDao;
-import net.netne.test.service.ITestService;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import cn.gray.common.pojo.City;
+import cn.gray.test.dao.ITestDao;
+import cn.gray.test.service.ITestService;
 
 /**
  * Description: TestServiceImpl.java

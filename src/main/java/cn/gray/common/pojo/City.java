@@ -1,4 +1,4 @@
-package net.netne.common.pojo;
+package cn.gray.common.pojo;
 
 /**
  * Description: City.java
